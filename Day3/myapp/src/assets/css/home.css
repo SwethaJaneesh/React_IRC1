@@ -1,0 +1,8 @@
+.home{
+    height:5rem;
+    width:100vw;
+    background-color:rgb(93, 83, 83);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
